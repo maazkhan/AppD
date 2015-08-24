@@ -1,0 +1,17 @@
+*.swp
+*~
+.project
+.DS_Store
+*.idea
+.secret
+*.iml
+*.ipr
+*.iws
+/projectFilesBackup
+bin
+web-app/WEB-INF/classes
+target
+target-eclipse
+.classpath
+stacktrace.log
+/.settings
